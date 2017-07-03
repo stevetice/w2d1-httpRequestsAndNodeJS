@@ -1,5 +1,5 @@
 const https = require('https');
-console.log('test');
+// console.log('test');
 
 function getAndPrintHTMLChunks () {
 
